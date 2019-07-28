@@ -1,0 +1,5 @@
+gem 'byebug'
+gem 'httparty'
+gem 'nokogiri'
+gem 'selenium-webdriver'
+gem 'chromedriver-helper'
